@@ -1,6 +1,6 @@
 ### Hi there 👋 I'am Eduard Rogachkov
 
-### I'm a novice developer!
+### I'm a web developer!
 - 🌱 I’m currently learning everything about development
 - 💪 I like to write code
 - 🔭 I’m currently studying at <a href="https://donstu.ru/en/">Don State Technical University</a>
