@@ -1,13 +1,9 @@
-### Hi there 👋 I'am Eduard Rogachkov
-
-### I'm a web developer!
-- 🌱 I’m currently learning everything about development
-- 💪 I like to write code
-- 🔭 I’m currently studying at <a href="https://donstu.ru/en/">Don State Technical University</a>
+### Java software cringener @sber
 
 ### You can contact me
 
 <a href="https://t.me/ssskyfall"><img alt="Telegram" width=35px src="https://cdn.cdnlogo.com/logos/t/57/telegram-2019.svg"></a>
+
 ### Languages and tools
 
 <img align="left" alt="Java"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
