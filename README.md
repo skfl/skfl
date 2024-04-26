@@ -1,4 +1,4 @@
-### Java software cringener @sber
+### Back-end cringener at Flocktory
 
 ### You can contact me
 
